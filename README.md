@@ -4,9 +4,9 @@ Building a deep learning based convolutional neural network to classify dog bree
 # Installations
 
 * This repository contains a jupyter notebook
-* System Requirements: 
-** Jupyter
-** Python 3.x
+##  System Requirements: 
+* Jupyter
+* Python 3.x
 
 # Project Motivation
 
