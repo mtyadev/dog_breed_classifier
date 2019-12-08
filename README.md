@@ -7,6 +7,7 @@ Building a deep learning based convolutional neural network to classify dog bree
 ##  System Requirements: 
 * Jupyter
 * Python 3.x
+* Keras
 
 # Project Motivation
 
@@ -19,3 +20,4 @@ Building a deep learning based convolutional neural network to classify dog bree
 # Acknowledgements
 
 * This project was done as part of the udacity data scientist nano degree programm https://www.udacity.com/course/data-scientist-nanodegree--nd025
+* A blog-post summarizing the approach and project findings is available here on medium.com at https://medium.com/@migueltya/building-a-convolutional-neural-network-based-dog-breed-classifier-8b4bcb36a036
