@@ -5,13 +5,13 @@
 Build a deep learning based convolutional neural network (CNN) to classify dog breeds based on image recognition.
 Evaluate and compare 2 different approaches:
 * Build the CNN from scratch
-* Use a transfer-learning based approach
-* The project has also be published on https://medium.com/@migueltya/building-a-convolutional-neural-network-based-dog-breed-classifier-8b4bcb36a036
+* Use a transfer-learning based approach to build the CNN
+* I have also published the project in the following blog post on medium.com -> https://medium.com/@migueltya/building-a-convolutional-neural-network-based-dog-breed-classifier-8b4bcb36a036
 
 # Installations
 
-* No local installation is necessary
-* This repository contains a jupyter notebook "dog_breed_classifier.ipynb" comparing the two approaches to building the CNN based dog breed classifier. 
+* This repository contains a jupyter notebook "dog_breed_classifier.ipynb" comparing two approaches to building a CNN based dog breed classifier.
+* No local installation is necessary, you can just read along the jupyter notebook
 
 ##  System Requirements: 
 * Python 3.x
